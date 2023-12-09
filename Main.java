@@ -7,7 +7,7 @@ public class Main{
         System.out.println("This is second line");
         System.out.println("Today's date is "+ new Date());
 
-        System.out.println("This is fourt line");
+        System.out.println("This is fourth line");
     }
 
 }
