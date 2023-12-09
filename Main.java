@@ -6,6 +6,8 @@ public class Main{
         System.out.println("This is first line");
         System.out.println("This is second line");
         System.out.println("Today's date is "+ new Date());
+
+        System.out.println("This is fourt line");
     }
 
 }
